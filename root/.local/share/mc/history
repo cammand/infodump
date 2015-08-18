@@ -1,0 +1,28 @@
+[cmdline]
+0=3
+1=
+
+[Dir Hist New Right Panel]
+0=/root/.npm
+1=/var/www/breakfastfrontend
+2=/root
+3=/root/.ssh
+
+[Dir Hist New Left Panel]
+0=/root/.ssh
+1=/root/.cache
+2=/root/.cache/bower
+3=/root/.config/configstore
+4=/var/www/breakfastfrontend
+5=/var/www/breakfastfrontend/cache
+6=/var/www/breakfastfrontend/.git
+7=/var/www/breakfastfrontend/logs
+8=/var/www/breakfastfrontend/vendor
+9=/var/www/breakfastfrontend/lib
+10=/var/www/breakfastfrontend/lib/Vegas
+11=/var/www/breakfastfrontend/lib/Vegas/Assets
+12=/var/www/breakfastfrontend/vendor/swiftmailer
+13=/var/www/breakfastfrontend/vendor/swiftmailer/swiftmailer
+14=/root/.config
+15=/root/.config/mc
+16=/root
